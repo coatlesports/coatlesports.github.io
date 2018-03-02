@@ -41,7 +41,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #92d050 !important; }
+  background-color: #b6bcc5 !important; }
 
 .bg-dark {
   color: white;
@@ -79,7 +79,7 @@ body {
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: #b6bcc5;
+  background-color: #92d050;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -87,7 +87,7 @@ body {
   #mainNav .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
-    color: #b6bcc5;
+    color: #92d050;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
     #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: white; }
